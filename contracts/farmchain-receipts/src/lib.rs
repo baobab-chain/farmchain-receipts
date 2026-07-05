@@ -1,7 +1,5 @@
 #![no_std]
-//! FarmChain Receipts: tokenized warehouse receipts usable as loan
-//! collateral. Early skeleton — see docs/ARCHITECTURE.md for known gaps
-//! before using this with real funds or real collateral.
+
 
 use soroban_sdk::{contract, contracterror, contractimpl, contracttype, token, Address, Env, Symbol};
 

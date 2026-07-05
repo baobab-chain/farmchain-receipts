@@ -45,3 +45,8 @@ fn test_full_receipt_and_loan_lifecycle() {
 // TODO: test fund_loan fails if already funded
 // TODO: test claim_default succeeds after due_ledger passes and loan unpaid
 // TODO: test claim_default fails before due_ledger
+
+// TODO: test request_loan fails if receipt already locked
+// TODO: test fund_loan fails if already funded
+// TODO: test claim_default succeeds after due_ledger passes and loan unpaid
+// TODO: test claim_default fails before due_ledger
