@@ -1,0 +1,1 @@
+/workspaces/farmchain-receipts/contracts/farmchain-receipts/target/wasm32-unknown-unknown/release/farmchain_receipts.wasm: /workspaces/farmchain-receipts/contracts/farmchain-receipts/src/lib.rs /workspaces/farmchain-receipts/contracts/farmchain-receipts/src/test.rs
