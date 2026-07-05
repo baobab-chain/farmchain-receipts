@@ -2,7 +2,7 @@
 
 **Tokenized warehouse receipts so smallholder farmers can use stored crops as verifiable collateral.**
 
-Part of [Baobab Labs](https://github.com/baobab-labs) — built on [Stellar](https://stellar.org).
+Part of [Baobab Chain Labs](https://github.com/baobab-chain) — built on [Stellar](https://stellar.org).
 
 ---
 
