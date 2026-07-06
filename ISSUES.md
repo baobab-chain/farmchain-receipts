@@ -1,5 +1,3 @@
-# Initial issues (paste each of these as a separate GitHub issue)
-
 ---
 
 ## 1. Warehouse operator registry (top priority)
