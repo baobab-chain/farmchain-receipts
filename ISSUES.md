@@ -1,5 +1,3 @@
----
-
 ## 1. Warehouse operator registry (top priority)
 
 **Labels:** `complexity: high`, `contract-logic`, `help wanted`, `priority: high`
